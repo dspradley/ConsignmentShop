@@ -142,7 +142,7 @@ namespace ConsignmentShopUI
             store.Items.Add(new Item
             {
                 Title = "50 Shades of Grey",
-                Description = "A book about *******",
+                Description = "A book about repressed spousal emotions",
                 Price = 6.52M,
                 Owner = store.Vendors[3]
             });
